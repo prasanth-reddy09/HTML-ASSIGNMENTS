@@ -1,0 +1,14 @@
+.child{
+    width:300px;
+    display: inline-block;
+}
+
+.child:nth-child(1){
+    height:100px;
+    background-color: blue;
+}
+
+.child:nth-child(2){
+    height: 400px;
+    background-color: green;
+}
